@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+frontend/.env
+backend/.env
+
+# Local uploaded files
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# macOS
+.DS_Store
