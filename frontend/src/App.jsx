@@ -32,7 +32,7 @@ function App() {
         
         <div className="album-grid">
           <div className="album-container">
-            <img src="../public/photos/IMG_7726.jpg" alt=""/>
+            <img src="/photos/IMG_7726.jpg" alt=""/>
             <div className="album-info">
               <div className="name">MELBOURNE TRIP 2026</div>
               <div className="date">22 - 24 JULY, 2026 </div>
@@ -40,14 +40,14 @@ function App() {
           </div>
 
           <div className="album-container">
-            <img src="../public/photos/IMG_7942.jpg" alt=""/>
+            <img src="/photos/IMG_7942.jpg" alt=""/>
             <div className="album-info">
               <div className="name">GOLDCOAST TRIP 2026</div>
               <div className="date">18 JULY, 2026 </div>
             </div>
           </div>
           <div className="album-container">
-            <img src="../public/photos/IMG_7942.jpg" alt=""/>
+            <img src="/photos/IMG_7942.jpg" alt=""/>
             <div className="album-info">
               <div className="name">GOLDCOAST TRIP 2026</div>
               <div className="date">18 JULY, 2026 </div>
